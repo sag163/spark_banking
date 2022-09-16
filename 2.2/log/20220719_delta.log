@@ -1,0 +1,22 @@
+19.07.2022	21:02:21	INFORMATION	Start instance with PID(9772).
+19.07.2022	21:02:28	INFORMATION	Succsess load data for /home/sag163/airflow/dags/project2.2/data_deltas/1000/md_account_d.csv
+19.07.2022	21:02:50	INFORMATION	Succsess load data for /home/sag163/airflow/dags/project2.2/data_deltas/1001/md_account_d_1.csv
+19.07.2022	21:03:03	INFORMATION	Succsess load data for /home/sag163/airflow/dags/project2.2/data_deltas/1002/md_account_d_2.csv
+19.07.2022	21:03:14	INFORMATION	Succsess load data for /home/sag163/airflow/dags/project2.2/data_deltas/1003/md_account_d_3.csv
+19.07.2022	21:03:14	INFORMATION	Stop instance with PID(9772)
+
+19.07.2022	21:03:26	INFORMATION	Start instance with PID(10969).
+19.07.2022	21:03:29	INFORMATION	Delta with name 1000 already load
+19.07.2022	21:03:29	INFORMATION	Delta with name 1001 already load
+19.07.2022	21:03:29	INFORMATION	Delta with name 1002 already load
+19.07.2022	21:03:29	INFORMATION	Delta with name 1003 already load
+19.07.2022	21:03:29	INFORMATION	Stop instance with PID(10969)
+
+19.07.2022	21:04:27	INFORMATION	Start instance with PID(11392).
+19.07.2022	21:04:30	INFORMATION	Delta with name 1000 already load
+19.07.2022	21:04:30	INFORMATION	Delta with name 1001 already load
+19.07.2022	21:04:30	INFORMATION	Delta with name 1002 already load
+19.07.2022	21:04:30	INFORMATION	Delta with name 1003 already load
+19.07.2022	21:04:56	INFORMATION	Succsess load data for /home/sag163/airflow/dags/project2.2/data_deltas/1004/md_account_d_3.csv
+19.07.2022	21:04:56	INFORMATION	Stop instance with PID(11392)
+
